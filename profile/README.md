@@ -98,9 +98,9 @@ While Muzzle is primarily developed by our core team, we welcome suggestions and
 
 ## 📞 Contact & Support
 
-- **Discord Server:** [Join our community](#)
+- **Discord Server:** [Join our community](https://discord.gg/p6PbDTH3fa)
 - **Issues:** Report bugs and request features through our GitHub
-- **Email:** [Contact us](#)
+- **Email:** [Contact us](https://discord.gg/p6PbDTH3fa)
 
 ---
 

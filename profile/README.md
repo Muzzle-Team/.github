@@ -1,12 +1,119 @@
-## Hi there 👋
+# 🎯 Muzzle Bot Development Team
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<img src="https://i.ibb.co/spz5T9qp/logo2.png" alt="Muzzle Bot" width="200"/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+**A premium Discord bot combining the best features from leading bots**
+
+[![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/discovery/applications/1321940665667551272)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com)
+[![Team](https://img.shields.io/badge/Team-3%20Developers-blue?style=for-the-badge)](https://github.com)
+
+</div>
+
+---
+
+## 👥 Meet Our Team
+
+We are a dedicated team of developers passionate about creating the ultimate Discord bot experience. Our mission is to combine the best features from existing bots while adding our own unique innovations.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/iimazin11">
+        <img src="https://github.com/iimazin11.png" width="100px;" alt="iimazin11"/>
+        <br />
+        <sub><b>iimazin11</b></sub>
+      </a>
+      <br />
+      <sub>Core Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MrRuneDev">
+        <img src="https://github.com/MrRuneDev.png" width="100px;" alt="MrRuneDev"/>
+        <br />
+        <sub><b>MrRuneDev</b></sub>
+      </a>
+      <br />
+      <sub>Core Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yyvvess">
+        <img src="https://github.com/Yyvvess.png" width="100px;" alt="Yyvvess"/>
+        <br />
+        <sub><b>Yyvvess</b></sub>
+      </a>
+      <br />
+      <sub>Core Developer</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 About Muzzle Bot
+
+Muzzle is a comprehensive Discord bot that brings together the best features from various popular bots, enhanced with our own unique touch. Our goal is to provide server owners with a single, powerful solution for all their Discord needs.
+
+### ✨ Key Features
+
+- **🛡️ Advanced Moderation** - Keep your server safe with powerful moderation tools
+- **🎵 Music System** - High-quality music playback with playlist support
+- **🎮 Fun & Games** - Engaging mini-games and entertainment commands
+- **📊 Server Analytics** - Detailed insights into your server activity
+- **⚙️ Customization** - Flexible configuration options for every server
+- **🔔 Notifications** - Custom alerts and announcements
+- **🎨 Custom Commands** - Create your own commands tailored to your community
+- **🚀 Fast & Reliable** - Optimized performance with 99.9% uptime
+
+---
+
+## 🛠️ Technology Stack
+
+- **Language:** JavaScript/TypeScript (Discord.js)
+- **Database:** MongoDB/PostgreSQL
+- **Hosting:** Cloud-based infrastructure
+- **APIs:** Integration with multiple third-party services
+
+---
+
+## 📈 Project Status
+
+Muzzle Bot is currently in active development. We're constantly working on new features and improvements based on community feedback.
+
+- ✅ Core functionality implemented
+- ✅ Moderation system complete
+- 🚧 Music system in development
+- 📋 Additional features planned
+
+---
+
+## 🤝 Contributing
+
+While Muzzle is primarily developed by our core team, we welcome suggestions and feedback from the community. Feel free to reach out to any team member with your ideas!
+
+---
+
+## 📞 Contact & Support
+
+- **Discord Server:** [Join our community](#)
+- **Issues:** Report bugs and request features through our GitHub
+- **Email:** [Contact us](#)
+
+---
+
+## 📜 License
+
+This project is proprietary software developed by the Muzzle Bot team.
+
+---
+
+<div align="center">
+
+**Made with ❤️ by the Muzzle Bot Team**
+
+⭐ Star us on GitHub if you like what we're building!
+
+</div>
